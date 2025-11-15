@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+.env
+.env.*
+.DS_Store
+.vscode/
+lambda_a.zip
+lambda_b.zip
+layer.zip
+
+# Python
+venv/
+__pycache__/
+*.pyc
