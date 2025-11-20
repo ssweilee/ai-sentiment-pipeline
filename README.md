@@ -45,6 +45,20 @@ Frontend renders insights
 
 ---
 
+## Key Results
+* Reduced data processing latency by **~75%** via asynchronous processing.
+* Delivered **user-friendly visual** dashboards for actionable audience insights.
+* Demonstrated a **production-ready serverless AI pipeline** for scalable cloud deployment.
+
+---
+
+## Business Impact
+* Social media sentiment monitoring for content producers.
+* Facilitates data-driven decision making for marketing and release strategies. 
+* Supports scalable deployment for future series/film monitoring across global markets.
+
+---
+
 ## Getting Started
 The live demo is private due to usage limits, feel free to contact me for access.
 
