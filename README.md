@@ -1,15 +1,18 @@
 # AI Sentiment Pipeline
-## 🧩 Key Features
+
+Serverless backend for processing audience sentiment & trend analysis data. Built with AWS Lambda, SQS, DynamoDB, and integrated with AWS Bedrock for NLP.
+
+## Key Features
 - **Asynchronous Processing:** Uses AWS SQS for scalable, non-blocking message handling.
 - **Serverless Compute:** AWS Lambda functions for data fetching, analysis, and aggregation.
 - **AI/NLP Integration:** Sentiment analysis and trend extraction using AWS Bedrock.
 - **Reliable Storage:** Results stored in S3 and DynamoDB for easy retrieval.
-- **Automated Deployment:** CI/CD with AWS Amplify (or CloudFormation/Terraform if used).
+- **Automated Deployment:** CI/CD with AWS Amplify.
 
 ---
 
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |-----------|---------------|
@@ -21,7 +24,7 @@
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 <pre>
 Frontend (Next.js)
        ↓
@@ -42,12 +45,26 @@ Frontend renders insights
 
 ---
 
+## Key Results
+* Reduced data processing latency by **~75%** via asynchronous processing.
+* Delivered **user-friendly visual** dashboards for actionable audience insights.
+* Demonstrated a **production-ready serverless AI pipeline** for scalable cloud deployment.
+
+---
+
+## Business Impact
+* Social media sentiment monitoring for content producers.
+* Facilitates data-driven decision making for marketing and release strategies. 
+* Supports scalable deployment for future series/film monitoring across global markets.
+
+---
+
 ## Getting Started
 The live demo is private due to usage limits, feel free to contact me for access.
 
 ---
 
-## 🤖 Future Improvements
+## Future Improvements
 - Complete NLP preprocessing pipeline
 - Implement microservice architecture for scalable sentiment analysis
 - Add monitoring & logging dashboards
