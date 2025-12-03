@@ -2,6 +2,9 @@
 
 Serverless backend for processing audience sentiment & trend analysis data. Built with AWS Lambda, SQS, DynamoDB, and integrated with AWS Bedrock for NLP.
 
+![Dashboard Screenshot](https://raw.githubusercontent.com/ssweilee/ai-sentiment-dashboard/main/dashboard-screenshot.svg)
+
+
 ## Key Features
 - **Asynchronous Processing:** Uses AWS SQS for scalable, non-blocking message handling.
 - **Serverless Compute:** AWS Lambda functions for data fetching, analysis, and aggregation.
